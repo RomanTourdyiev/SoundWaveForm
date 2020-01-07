@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="xlarge_margin">24dp</dimen>
+    <dimen name="large_margin">16dp</dimen>
+    <dimen name="xmedium_margin">12dp</dimen>
+    <dimen name="medium_margin">8dp</dimen>
+    <dimen name="small_margin">4dp</dimen>
+    <dimen name="album_cover_dimen">56dp</dimen>
+    <dimen name="record_photo_dimen">160dp</dimen>
+    <dimen name="contact_photo_dimen">42dp</dimen>
+    <dimen name="record_photo_radius">80dp</dimen>
+    <dimen name="letter_width">40dp</dimen>
+    <dimen name="speed_button_height">32dp</dimen>
+    <dimen name="speed_button_width">64dp</dimen>
+    <dimen name="visualizer_height">120dp</dimen>
+</resources>

@@ -1,0 +1,2 @@
+include ':app', ':soundform'
+rootProject.name='soundform library project'
